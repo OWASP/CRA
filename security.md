@@ -17,8 +17,7 @@ versions.
 ## Reporting a Vulnerability
 
 
-To report a security vulnerability, please use the [Vulnerability Reporting Program link hereTidelift security
-contact](https://PUTBUGCROWDPORTALHERE).  OWASP will coordinate the fix and
+To report a security vulnerability, please use the [Vulnerability Reporting Program link here](https://PUTBUGCROWDPORTALHERE).  OWASP will coordinate the fix and
 disclosure.
 
 If you have found a security vulnerability, in order to keep it confidential,
