@@ -1,6 +1,6 @@
 # Cybersecurity Policy
 ## Open Source Software Steward
-### [Organization Name]
+### OWASP Foundation, Inc.
 
 **EU Cyber Resilience Act (Regulation 2024/2847) Compliant**
 
@@ -21,7 +21,7 @@
 
 ### 1.1 Purpose
 
-This Cybersecurity Policy establishes the security framework for [Organization Name] in its role as an Open Source Software Steward under the EU Cyber Resilience Act (Regulation 2024/2847, Article 24). This policy is designed to:
+This Cybersecurity Policy establishes the security framework for OWASP Foundation, Inc. in its role as an Open Source Software Steward under the EU Cyber Resilience Act (Regulation 2024/2847, Article 24). This policy is designed to:
 
 - Foster the development of secure products with digital elements
 - Enable effective handling of vulnerabilities by project developers
@@ -31,7 +31,7 @@ This Cybersecurity Policy establishes the security framework for [Organization N
 
 ### 1.2 Scope
 
-This policy applies to all open source projects stewarded by [Organization Name] that qualify as products with digital elements intended for commercial activities under the CRA. This includes:
+This policy applies to all open source projects stewarded by OWASP Foundation, Inc. that qualify as products with digital elements intended for commercial activities under the CRA. This includes:
 
 - [List specific projects or categories of projects]
 - All committers, contributors, and maintainers of covered projects
@@ -144,7 +144,7 @@ For severe incidents affecting network and information systems provided by the s
 
 ### 4.3 Designated CSIRT
 
-[Organization Name]'s primary establishment is in **[Member State]**. 
+OWASP Foundation, Inc.'s primary establishment is in **[Member State]**. 
 
 The designated CSIRT coordinator is:
 
@@ -201,7 +201,7 @@ We encourage and facilitate voluntary reporting of:
 
 ## 7. Cooperation with Market Surveillance Authorities
 
-In accordance with **Article 24(2)**, [Organization Name] commits to:
+In accordance with **Article 24(2)**, OWASP Foundation, Inc. commits to:
 
 - Cooperate with market surveillance authorities upon request
 - Work to mitigate cybersecurity risks in stewarded products
@@ -263,7 +263,7 @@ _______________________________________
 
 ## Appendix A: SECURITY.md Template for Projects
 
-Projects stewarded by [Organization Name] should include a SECURITY.md file with the following information:
+Projects stewarded by OWASP Foundation, Inc. should include a SECURITY.md file with the following information:
 
 ```markdown
 # Security Policy
