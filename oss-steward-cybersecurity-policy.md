@@ -55,7 +55,7 @@ The Steward Security Team is responsible for coordinating security activities ac
 - Maintaining relationships with CSIRTs and regulatory authorities
 - Managing the single reporting platform communications (Article 14/16)
 
-**Contact:** security@[organization].org
+**Contact:** vulnerability.reporting@owasp.org
 
 ### 2.2 Project Security Teams
 
@@ -75,7 +75,7 @@ Each stewarded project maintains a Project Security Team responsible for:
 
 Vulnerabilities can be reported through the following channels:
 
-- **Email:** security@[organization].org (encrypted with PGP preferred)
+- **Email:** vulnerability.reporting@owasp.org (encrypted with PGP preferred)
 - **GitHub Security Advisories** (for projects hosted on GitHub)
 - **Project-specific mechanisms** as documented in SECURITY.md files
 - **CSIRT/ENISA coordination** (incoming notifications)
@@ -279,7 +279,7 @@ Projects stewarded by OWASP Foundation, Inc. should include a SECURITY.md file w
 
 Please report security vulnerabilities to:
 
-- **Email:** security@[organization].org
+- **Email:** vulnerability.reporting@owasp.org
 - **PGP Key:** [Key ID or link]
 
 Or use GitHub Security Advisories if available for this repository.
